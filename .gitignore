@@ -1,0 +1,126 @@
+# OS generated files 
+ehthumbs.db
+Icon?
+Thumbs.db
+.DS_Store
+.DS_Store?
+
+# WebServer
+*.log
+
+# Private config files
+heroku_env.rb
+deploy.rb 
+certs/*
+certs/
+
+# Textmate
+*.tmproj
+._*
+       
+# Ruby Stuff
+.bundle 
+log/
+log/**/*
+db/*.sqlite3
+public/system/*
+db/**/*  
+*.gem  
+.sass-cache/  
+.sass-cache/**/*
+
+# Bundler Stuff      
+tmp/
+tmp/**/* 
+vendor/**/*   
+.bundle  
+vendor/*
+vendor/
+            
+# Python Stuff
+*.mo
+*.egg-info
+*.egg
+*.EGG
+*.EGG-INFO
+bin
+build
+develop-eggs
+downloads
+eggs
+fake-eggs
+parts
+dist
+.installed.cfg
+.mr.developer.cfg
+.hg
+.bzr
+.svn
+*.pyc
+*.pyo
+*.tmp*
+*.orig
+*.rej
+__minitage__*
+bin/*
+log
+parts
+
+# Xcode
+build/*
+*.pbxuser
+*.mode1v3
+
+# Subversion
+.svn 
+
+# Rails
+pkg
+.bundle
+Gemfile.lock
+debug.log
+doc/rdoc
+activemodel/doc
+activeresource/doc
+activerecord/doc
+actionpack/doc
+actionmailer/doc
+activesupport/doc
+activemodel/test/fixtures/fixture_database.sqlite3
+actionpack/test/tmp
+activesupport/test/fixtures/isolation_test
+railties/test/500.html
+railties/test/fixtures/tmp
+railties/test/initializer/root/log
+railties/doc
+railties/guides/output
+railties/tmp      
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite  
+
+# Images
+*.psd
+
+# Misc
+tmp/*

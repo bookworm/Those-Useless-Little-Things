@@ -1,0 +1,1 @@
+This is a git collection of all those things that might be unexpectedly useful to others. The contents within will range from my config files to mini tutorials. Its basically all the little things that one accumulates over the years doing development. I hope you find at least something useful within.   
