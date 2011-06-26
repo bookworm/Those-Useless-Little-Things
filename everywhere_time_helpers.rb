@@ -1,6 +1,6 @@
 ##
 # Global time helpers. WARNING these will polute your namespace. 
-# In allot of uses cases its best to wrap the in the Sinatra module or Rails helpers etc.
+# In allot of uses cases its best to wrap them in the Sinatra module or Rails helpers etc.
 #
 
 # Takes time in seconds and returns coutdown formatted string
